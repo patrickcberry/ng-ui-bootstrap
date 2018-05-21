@@ -1,5 +1,19 @@
 # NgUiBootstrap
 
+## TODO
+
+- [ ] Convert the project the scss rather than css
+- [ ] Import the Bootstrap css
+
+## Reference
+
+Implement navbar dropdowns using ng-bootstrap directives, (https://medium.com/codingthesmartway-com-blog/building-an-angular-5-project-with-bootstrap-4-and-firebase-4504ff7717c1)
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
 ## Development server
