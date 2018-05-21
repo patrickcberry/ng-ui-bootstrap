@@ -6,4 +6,4 @@ if "%~1" equ "" (
 
 git add .
 git commit -m %message%
-git push https://patrickcberry:Asunmaa1@github.com/patrickcberry/ng-auth-base.git
+git push https://patrickcberry:Asunmaa1@github.com/patrickcberry/ng-ui-bootstrap.git
