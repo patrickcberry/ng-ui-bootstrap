@@ -9,7 +9,7 @@
 
 Implement navbar dropdowns using ng-bootstrap directives, (https://medium.com/codingthesmartway-com-blog/building-an-angular-5-project-with-bootstrap-4-and-firebase-4504ff7717c1)
 
-
+Implementing a [Bootstrap sidebar](https://blackrockdigital.github.io/startbootstrap-simple-sidebar/#)
 
 
 
